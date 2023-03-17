@@ -1,18 +1,13 @@
 [![Release](https://github.com/csailer/fictional-lamp/actions/workflows/release.yaml/badge.svg?branch=master)](https://github.com/csailer/fictional-lamp/actions/workflows/release.yaml)
 [![Deploy to ECR](https://github.com/csailer/fictional-lamp/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/csailer/fictional-lamp/actions/workflows/deploy.yml)
 
-# React-PWA - `v2` is here 🚀🎉⚡️
+# Something 🚀🎉⚡️
 
-**Starter kit for modern web applications!**
+**A modern web applications!**
 
 ## Synopsis
 
-This project (a GitHub template) is an opinionated setup for modern web applications.
-It's a combination of essential (and minimal) libraries/components/utils/etc., which developers usually need during the process of making modern React applications.
-
-## Motivation
-
-Almost all projects need to have a router, a UI framework, store integration, theming, error handling, base file/folder structure, a builder, some developer tools (eslint, prettier, etc), and many more. In this starter kit, we tried to put together the best options available from the above-mentioned fields. Out of the box, it provides a modern production-ready setup created by developers for developers 💚
+This project is a modern web applications.
 
 ## Features
 
@@ -144,7 +139,7 @@ TBD: more information about the file/folder structure will be added soon.
 
 Out of the box, it's a `Progressive Web Application`. It can be installed on mobile and desktop devices 🙂, it can work offline, and many more. Check more about PWAs [here](https://web.dev/progressive-web-apps/)
 
-Your users will also be informed about the new version of your app:
+Users will also be informed about the new version of your app:
 
 <img src="./public/pwa-reload.png" width="600" title="pwa reload">
 
@@ -156,7 +151,7 @@ After all these integrations the biggest bundle size is `~79KB`. It means even t
 
 <img src="./public/audit.png" title="audit">
 
-NOTE: The performance is not 100 because it's running on demo server.
+NOTE: The performance is not 100 because it's running on a laptop.
 
 #### Hotkeys
 
