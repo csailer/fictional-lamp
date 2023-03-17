@@ -1,6 +1,6 @@
+/* eslint-disable */
 const fs = require('fs');
 const { execSync } = require('child_process');
-
 const packageJsonPath = './package.json';
 const packageJson = require(packageJsonPath);
 

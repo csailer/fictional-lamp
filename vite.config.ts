@@ -1,3 +1,4 @@
+/* eslint-disable */
 import * as path from 'path';
 import react from '@vitejs/plugin-react';
 import reactRefresh from '@vitejs/plugin-react-refresh';

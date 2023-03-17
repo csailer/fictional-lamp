@@ -18,7 +18,9 @@
     "preview": "vite preview",
     "https-preview": "serve dist",
     "prepare": "husky install",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix --ext .js,.jsx ."
   },
   "dependencies": {
     "@emotion/react": "^11.10.4",

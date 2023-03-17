@@ -1,5 +1,8 @@
+
+/* eslint-disable */
 // This configuration sets up the release process to run on the main branch and specifies the plugins for analyzing commits, 
 // generating release notes, updating the npm package, and committing the changed package.json and package-lock.json files.
+
 
 module.exports = {
     branches: ['main'],
