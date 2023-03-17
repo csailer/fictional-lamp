@@ -1,6 +1,4 @@
-<a href="http://react-pwa.surenatoyan.com/" target="_blank" rel="noreferrer">
- <img src="./public/cover.png" title="Base App">
-</a>
+[![Deploy to ECR](https://github.com/csailer/fictional-lamp/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/csailer/fictional-lamp/actions/workflows/deploy.yml)
 
 # React-PWA - `v2` is here 🚀🎉⚡️
 
