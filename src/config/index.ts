@@ -6,7 +6,7 @@ const title = 'IDC Okta UI';
 
 const email = 'chuck@chucksailer.com';
 
-const repository = 'https://github.com/suren-atoyan/react-pwa';
+const repository = 'https://github.com/csailer/fictional-lamp';
 
 const messages = {
   app: {
@@ -41,14 +41,13 @@ const notifications: Notifications = {
 };
 
 const loader = {
-  // no more blinking in your app
-  delay: 300, // if an asynchronous process is finished during 300 milliseconds you will not see the loader at all
-  minimumLoading: 700, // but if it appears, it will stay for at least 700 milliseconds
+  delay: 300, //--if an asynchronous process is finished during 300 milliseconds you will not see the loader at all
+  minimumLoading: 700, //--but if it appears, it will stay for at least 700 milliseconds
 };
 
 const defaultMetaTags = {
   image: '/cover.png',
-  description: 'Starter kit for modern web applications',
+  description: 'Chux React Adventures',
 };
 const giphy404 = 'https://giphy.com/embed/xTiN0L7EW5trfOvEk0';
 
