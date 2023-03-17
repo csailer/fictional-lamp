@@ -1,3 +1,4 @@
+[![Release](https://github.com/csailer/fictional-lamp/actions/workflows/release.yaml/badge.svg?branch=master)](https://github.com/csailer/fictional-lamp/actions/workflows/release.yaml)
 [![Deploy to ECR](https://github.com/csailer/fictional-lamp/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/csailer/fictional-lamp/actions/workflows/deploy.yml)
 
 # React-PWA - `v2` is here 🚀🎉⚡️
